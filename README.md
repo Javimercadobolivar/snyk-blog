@@ -1,2 +1,2 @@
 # snyk-blog
-Description 
+Description
